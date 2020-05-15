@@ -1,47 +1,170 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="245 -13 231 450" width="231" height="450">
-  <defs>
-    <font-face font-family="Helvetica Neue" font-size="15.008022" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="245 -13 231 450"
+   width="231"
+   height="450"
+   id="svg42"
+   sodipodi:docname="cares.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview44"
+     showgrid="false"
+     inkscape:zoom="1.4833529"
+     inkscape:cx="192.11981"
+     inkscape:cy="337.07892"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <defs
+     id="defs4">
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="15.008022"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="517"
+       cap-height="714"
+       ascent="951.9958"
+       descent="-212.99744"
+       font-weight="400"
+       id="font-face2">
       <font-face-src>
-        <font-face-name name="HelveticaNeue"/>
+        <font-face-name
+           name="HelveticaNeue" />
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.15.1 
+  <metadata
+     id="metadata6"> Produced by OmniGraffle 7.15.1 
     <dc:date>2020-04-24 01:58:02 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
-    <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
-      <title>Layer 1</title>
-      <g id="Graphic_8">
-        <rect x="376.6979" y="18.436267" width="84.42013" height="370.1979" fill="blue"/>
-      </g>
-      <g id="Graphic_9">
-        <rect x="247.2537" y="138.50045" width="84.42013" height="250.1337" fill="#68bc36"/>
-      </g>
-      <g id="Graphic_10">
-        <text transform="translate(251.25334 404.10696)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="15.008022" font-weight="400" fill="black" x="2344791e-19" y="14">CARES Act</tspan>
-        </text>
-      </g>
-      <g id="Graphic_11">
-        <text transform="translate(368.8637 395.39685)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="15.008022" font-weight="400" fill="black" x="18.647468" y="14">Wealth of </tspan>
-          <tspan font-family="Helvetica Neue" font-size="15.008022" font-weight="400" fill="black" x="73896445e-20" y="31.420223">400 Americans</tspan>
-        </text>
-      </g>
-      <g id="Graphic_12">
-        <text transform="translate(259.0275 114.5722)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="15.008022" font-weight="400" fill="black" x="7354117e-19" y="14">$2 trillion</tspan>
-        </text>
-      </g>
-      <g id="Graphic_13">
-        <text transform="translate(378.0411 -5.491978)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="15.008022" font-weight="400" fill="black" x="0" y="14">$2.96 trillion</tspan>
-        </text>
-      </g>
-    </g>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_8">
+    <rect
+       style="fill:#0000ff"
+       x="376.69791"
+       y="18.436268"
+       width="84.420128"
+       height="370.19791"
+       id="rect12" />
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_9">
+    <rect
+       style="fill:#68bc36"
+       x="247.25369"
+       y="138.50044"
+       width="84.420128"
+       height="250.1337"
+       id="rect15" />
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_10">
+    <text
+       transform="translate(251.25334,404.10696)"
+       id="text20"
+       style="fill:#000000">
+      <tspan
+         font-size="15.008022"
+         font-weight="400"
+         x="2.344791e-13"
+         y="14"
+         id="tspan18"
+         style="font-weight:400;font-size:15.00802231px;font-family:'Helvetica Neue';fill:#000000">Ley CARES</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_11"
+     transform="translate(2.0224452,1.3482968)">
+    <text
+       id="text27"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       x="363.47049"
+       y="403.48663">
+      <tspan
+         sodipodi:role="line"
+         id="tspan139"
+         x="363.47049"
+         y="403.48663">Riqueza de 400</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan141"
+         x="363.47049"
+         y="418.48663">estadounidenses</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_12"
+     transform="matrix(0.81483233,0,0,0.81483233,42.116852,21.103682)">
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00799942px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="translate(259.0275,114.5722)"
+       id="text32">
+      <tspan
+         sodipodi:role="line"
+         id="tspan143"
+         x="0"
+         y="0">$2 billones</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan145"
+         x="0"
+         y="18.759998">de dólares</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     id="Graphic_13"
+     transform="matrix(0.73367044,0,0,0.73367044,97.533321,2.2419687)">
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00799942px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="translate(378.0411,-5.491978)"
+       id="text37">
+      <tspan
+         sodipodi:role="line"
+         id="tspan147"
+         x="0"
+         y="0">$2.96 billones</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan149"
+         x="0"
+         y="18.759998">de dólares</tspan>
+    </text>
   </g>
 </svg>
